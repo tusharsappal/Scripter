@@ -1,4 +1,3 @@
-
 # declaring a global array_store to store the data temporarily 
 
 array_store=[]
