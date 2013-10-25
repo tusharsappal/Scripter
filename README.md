@@ -1,4 +1,4 @@
 Scripter
 ========
 
-Set of small general utility scripts, written in Python and java
+Set of small general utility scripts, written in popular languages
