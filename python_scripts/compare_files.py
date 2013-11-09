@@ -22,13 +22,13 @@ def compare_two_files(str_1,str_2):
             array_2.append(line_2)
         ins_2.close()
         if (array==array_2):
-            print "In the Second Line of Defence the file has passed"
+            print "In the Second Line of Defence the files have passed"
         else :
-            print "In the second line of defence the file has failed"
+            print "In the second line of defence the files have failed"
         
         
     else :
-        print "First line of defence is not pased"
+        print "First line of defence is not passed"
 
 
 
