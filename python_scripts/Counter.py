@@ -1,5 +1,5 @@
 
-## This script uses the dictionary utility of the python and counts the number of the characters in the string 
+## This script uses the dictionary utility of the python and counts the number of the characters in the string and their frequency
 def Counter(str):
     d=dict()
     for c in str:
@@ -11,6 +11,8 @@ def Counter(str):
     return  d
 
 
-## Yahoo is the sample string 
+## Just replace the method argument with the string for which you want to check 
+
+
 temp=Counter("Yahoo")
 print temp
