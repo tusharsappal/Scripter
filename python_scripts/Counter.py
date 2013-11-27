@@ -14,5 +14,5 @@ def Counter(str):
 ## Just replace the method argument with the string for which you want to check 
 
 
-temp=Counter("Yahoo")
+temp=Counter("Replace with the string for which you want to check ")
 print temp
