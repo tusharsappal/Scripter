@@ -1,3 +1,5 @@
+
+##  This script basically fetches  the file from the user specified location and finds the frequency of each word in the text file
 def word_frequency_counter():
     fname=raw_input("Enter the Name of the file : ")
     try:
