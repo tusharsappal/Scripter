@@ -12,7 +12,7 @@ def fetch_email_address(str):
 
 
 
-## Replace the method argument with the string to be parsed, or you can modify the script to read the data from the text file 
+## Replace the method argument with the string to be parsed, or you can modify the script to read the data from the text file
 
 
 fetch_email_address("Replace this argument with the string to be parsed")
