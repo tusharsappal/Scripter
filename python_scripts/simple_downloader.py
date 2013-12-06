@@ -13,7 +13,7 @@ def simple_downloader(url,path_to_store_content):
             size=size+len(info)
         fhand.write(info)
 
-    print "Size copied",size
+    
     fhand.close()
 
 
