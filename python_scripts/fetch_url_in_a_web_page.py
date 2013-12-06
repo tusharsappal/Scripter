@@ -1,6 +1,8 @@
 import urllib
 import re
 
+
+## Enter the name of the url and this small snippet will fetch all the email links present in that web page
 def find_hyper_links_in_page():
     url = raw_input("Enter the url to be searched--")
     html =urllib.urlopen(url).read()
