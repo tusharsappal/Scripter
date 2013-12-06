@@ -1,9 +1,9 @@
 __author__ = 'tusharsappal'
 
 import urllib
-def simple_downloader():
-    img = urllib.urlopen('http://www.py4inf.com/cover.jpg')
-    fhand=open('/Users/tusharsappal/Desktop/cover.jpg','w')
+def simple_downloader(url,path_to_store_content):
+    img = urllib.urlopen(url)
+    fhand=open(path_to_store_content,'w')
     size=0
     while True:
         info=img.read(10000)
@@ -18,6 +18,9 @@ def simple_downloader():
 
 
 
-simple_downloader()
+##replace the first function parameter with the path of the the url  from which the content is to be fetched
+## And the second parameter with the path on your local system to store the content fetched
+
+simple_downloader("Replace with the URL","Replace with the path on your local system where we want to store the content")
 
 
