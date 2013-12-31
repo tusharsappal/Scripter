@@ -1,6 +1,7 @@
 ## this script compares  the two text files
 ## first line of defence is to match the number of line in the file
-## second line of defence is to store the content in two arrays and then compare 
+## second line of defence is to store the content in two arrays and then compare
+__author__ = 'tusharsappal'
 
 def compare_two_files(str_1,str_2):
     print "Comparing starts"

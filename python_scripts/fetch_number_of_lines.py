@@ -1,6 +1,6 @@
 ## fetching the number of lines from a text file
 
-
+__author__ = 'tusharsappal'
 def fetch_number_of_lines(str):
     print "Fetching starts from this point"
     with open(str) as fin:

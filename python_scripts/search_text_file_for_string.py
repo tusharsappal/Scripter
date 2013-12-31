@@ -1,4 +1,5 @@
 ## This script searches a particular string in the text file
+__author__ = 'tusharsappal'
 def read_file(str,string_to_be_searched):
     print "The reading starts here"
     with open(str,"r") as input_data:

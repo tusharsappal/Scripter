@@ -1,4 +1,4 @@
-
+__author__ = 'tusharsappal'
 ## This script uses the dictionary utility of the python and counts the number of the characters in the string and their frequency
 def Counter(str):
     d=dict()

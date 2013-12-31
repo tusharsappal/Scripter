@@ -1,6 +1,6 @@
 import urllib
 import re
-
+__author__ = 'tusharsappal'
 
 ## Enter the name of the url and this small snippet will fetch all the email links present in that web page
 def find_hyper_links_in_page():

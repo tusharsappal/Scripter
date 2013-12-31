@@ -1,5 +1,5 @@
 # declaring a global array_store to store the data temporarily 
-
+__author__ = 'tusharsappal'
 array_store=[]
 def readFile(str):
     print "reading starts from this part"
