@@ -9,7 +9,7 @@ import time
 
 def read_file_for_metadata():
     print(os.path.exists("/Users/tusharsappal/Desktop/com.zip"))
-    print(os.path.isdir("/Users/tusharsappal/Desktop/com.zi"))
+    print(os.path.isdir("/Users/tusharsappal/Desktop/com.zip"))
     print(os.path.getsize("/Users/tusharsappal/Desktop/com.zip"))
     print (time.ctime(os.path.getmtime("/Users/tusharsappal/Desktop/com.zip")))
 
