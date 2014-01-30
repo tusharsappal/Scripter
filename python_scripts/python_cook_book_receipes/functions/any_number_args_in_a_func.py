@@ -2,6 +2,7 @@ __author__ = 'tusharsappal'
 
 ## Courtesy Python cook Book  7.1
 ## This script accepts  any number of arguments and prints the average of the values
+## The type of arguments should be similar 
 
 
 
