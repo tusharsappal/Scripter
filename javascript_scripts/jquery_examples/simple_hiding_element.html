@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>A Simple HTML Script to display selection capabilities of jquery</title>
+    <script src="../js_libs/jquery-2.1.1.js"></script>
+    <link rel="stylesheet" href="../css_files/zebra.css" type="text/css">
+    <script>
+        $(document).ready(function () {
+
+            $('#hideTable').click(function () {
+                $('#info').hide();
+            });
+            // we would be hiding the table on the click of the button
+
+        });
+
+    </script>
+</head>
+<body>
+<h1>Selecting the table rows displayed</h1>
+<hr>
+<input type="button" id="hideTable" value="Hide Table">
+<hr>
+<table cellpadding="5px" border="2px" id="info">
+    <thead>
+    <td>Name</td>
+    <td>City</td>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Tushar Sappal</td>
+        <td>Dehradun</td>
+    </tr>
+    <tr>
+        <td>Alan</td>
+        <td>San Fransisco</td>
+    </tr>
+
+    <tr>
+        <td>Sam</td>
+        <td>San Fransisco</td>
+    </tr>
+
+    <tr>
+        <td>Peter</td>
+        <td>London</td>
+    </tr>
+
+    <tr>
+        <td>Patrick</td>
+        <td>Paris</td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
