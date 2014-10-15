@@ -2,26 +2,33 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>A Simple HTML Script to display power of hide method of jquery</title>
+    <title>A Simple HTML Script to insert an element before another using JQuery</title>
     <script src="../js_libs/jquery-2.1.1.js"></script>
     <link rel="stylesheet" href="../css_files/zebra.css" type="text/css">
     <script>
         $(document).ready(function () {
 
-            $('#hideTable').click(function () {
-                $('#info').hide();
-
+            $('<input type="button" value="Toggle Table Visibility" id="toggleTable">').insertBefore('#info');
+            $('#toggleTable').click(function () {
+                $('#info').toggle();
+                if ( $('#info').is(':visible') ) {
+                    $(this).val('Hide the Table');
+                }
+                else
+                {
+                    $(this).val('Show the Table');
+                }
             });
-            // we would be hiding the table on the click of the button
+            // we would be toggling with the state of the  table on the click of the button
 
         });
 
     </script>
 </head>
 <body>
-<h1>Hiding the element using Jquery methods</h1>
+<h1>Inserting an element before the other element using JQuery functions </h1>
 <hr>
-<input type="button" id="hideTable" value="Hide Table">
+
 <hr>
 <table cellpadding="5px" border="2px" id="info">
     <thead>

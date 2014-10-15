@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Showing the fading  effect using the methods of jquery </title>
+    <script src="../js_libs/jquery-2.1.1.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            // We will be modifying the contents of HTML element using the jquery methods
+            $('h1').html("Shwoing the fading out functionality using the jquery methods ");
+            // And we will be fading a div having id disclaimer using fade out functionality of jquery
+            $('#disclaimer').fadeOut('slow');
+        });
+
+    </script>
+</head>
+<body>
+<h1></h1>
+<hr>
+<div id="disclaimer">
+<p>This is a sample disclaimer that will fade out  </p>
+
+</div>
+
+</body>
+</html>
