@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70ecec19-9353-434e-9e76-6e0682bae0d2" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\fading_in_effect.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/fading_in_effect.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\highlight_when_hovering.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/highlight_when_hovering.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\inserting_an_element.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/inserting_an_element.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\modifying_content.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/modifying_content.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\reading_css_properties.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/reading_css_properties.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\setting_css_properties.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/setting_css_properties.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\setting_css_properties_on_class.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/setting_css_properties_on_class.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\simpe_toggling.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/simpe_toggling.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\simple_alert.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/simple_alert.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\simple_hiding_element.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/simple_hiding_element.html" />
-      <change type="MOVED" beforePath="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples\jquery_examples\simple_selection.html" afterPath="$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/simple_selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/animating_css_properties.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/chaining.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/js_libs/jquery-2.1.1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Scripter.iws" />
@@ -36,94 +28,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="simpe_toggling.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/simpe_toggling.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1190">
-              <caret line="18" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inserting_an_element.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/inserting_an_element.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1207">
-              <caret line="28" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modifying_content.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/modifying_content.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="986">
-              <caret line="13" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fading_in_effect.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/fading_in_effect.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="544">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setting_css_properties_on_class.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/setting_css_properties_on_class.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.846153" vertical-offset="0" max-vertical-offset="1037">
-              <caret line="38" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="highlight_when_hovering.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/highlight_when_hovering.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1343">
-              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery-2.1.1.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/js_libs/jquery-2.1.1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334" vertical-offset="255" max-vertical-offset="156128">
-              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="zebra.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/css_files/zebra.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chaining.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/chaining.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.28176796" vertical-offset="0" max-vertical-offset="724">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animating_css_properties.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/animating_css_properties.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="612">
+              <caret line="18" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -178,6 +107,9 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/javascript_scripts/css_files/zebra.css" />
         <option value="$PROJECT_DIR$/javascript_scripts/jquery_examples/highlight_when_hovering.html" />
+        <option value="$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/animating_css_properties.html" />
+        <option value="$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/easing_examples.html" />
+        <option value="$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/chaining.html" />
       </list>
     </option>
   </component>
@@ -245,8 +177,22 @@
               <option name="myItemId" value="javascript_scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selecting_decorating_enhancing_examples" />
+              <option name="myItemId" value="Scripter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript_scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animating_scrolling_resizing_examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -261,6 +207,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javascript_scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animating_scrolling_resizing_examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -288,6 +242,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\animating_scrolling_resizing_examples" />
       <recent name="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -451,13 +406,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24943651" sideWeight="0.65510947" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19" sideWeight="0.656051" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19" sideWeight="0.656051" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39717224" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3064391" sideWeight="0.14171974" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20179948" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -813,14 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/css_files/zebra.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/fading_in_effect.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="544">
@@ -829,18 +776,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/highlight_when_hovering.html">
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/js_libs/jquery-2.1.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1343">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0952381" vertical-offset="255" max-vertical-offset="156128">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/js_libs/jquery-2.1.1.js">
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/js_libs/jquery-2.1.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="255" max-vertical-offset="156128">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.4843962" vertical-offset="51" max-vertical-offset="156128">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/highlight_when_hovering.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42265195" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/css_files/zebra.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/animating_css_properties.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="612">
+          <caret line="18" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/chaining.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28176796" vertical-offset="0" max-vertical-offset="724">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding />
         </state>
       </provider>
