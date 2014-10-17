@@ -2,3 +2,12 @@
     background-color: #dddddd;
     color: #666666;
 }
+
+tr.zebraHOver {
+    background-color: #FFFACD;
+
+}
+
+tr.zebraHead {
+    background-color: chocolate;
+}
