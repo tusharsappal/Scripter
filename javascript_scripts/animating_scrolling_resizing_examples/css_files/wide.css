@@ -1,0 +1,10 @@
+body #container {
+    width: 850px;
+    font-family: serif;
+    font-style: italic;
+}
+body #container p {
+    width: 650px;
+}
+
+

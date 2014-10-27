@@ -1,0 +1,17 @@
+#news{
+    height: 100px;
+    width: 300px;
+    overflow: scroll;
+
+}
+
+
+#navigation {
+    position: relative;
+}
+
+
+#content {
+    height: 2000px;
+}
+

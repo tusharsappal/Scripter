@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Simple Resizing in Jquery </title>
+
+    <script src="../js_libs/jquery-2.1.1.js"></script>
+    <link rel="stylesheet" href="../css_files/style.css" type="text/css">
+    <script>
+
+
+        $(document).ready(function () {
+            $(window).resize(function () {
+                alert('You Resized the Window !!!!!!!');
+            });
+
+
+        });
+
+
+    </script>
+</head>
+<body>
+<h1>Using Resizing Event in Jquery </h1>
+
+
+<div id="navigation">
+    This is the div acting as a placeholder for navigation
+
+</div>
+<div id="content">
+    This is the div placeholder for the content items
+
+</div>
+
+
+</body>
+</html>

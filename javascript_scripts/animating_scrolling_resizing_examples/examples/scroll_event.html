@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Playing with the Scroll event in Jquery </title>
+
+    <script src="../js_libs/jquery-2.1.1.js"></script>
+    <link rel="stylesheet" href="../css_files/style.css" type="text/css">
+    <script>
+        $(document).ready(function () {
+
+            // Capturing the scroll event and acting on it
+
+            $('#news').scroll(function(){
+                $('#header').append('<span class="scrolled">You Scrolled! </span>');
+
+            });
+
+        });
+
+
+    </script>
+</head>
+<body>
+<h1>Using Scroll Event Handler in Jquery</h1>
+<div id="header">
+
+
+</div>
+<div id="news">
+  This is the sample div that will have all the latest news currently floating on media . Please be patient as the
+    news will be updated on a regular basis.
+---------------------------------------------------------------------------------------------------------------------
+    This is the sample div that will have all the latest news currently floating on media . Please be patient as the
+    news will be updated on a regular basis.
+
+
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Creating a Custom LightBox in JQuery</title>
+
+    <script src="../js_libs/jquery-2.1.1.js"></script>
+    <link rel="stylesheet" href="../css_files/lightbox_style.css" type="text/css">
+
+    <script>
+        $(document).ready(function () {
+            $('a.lightbox').click(function (e) {
+
+                $('body').css('overflow-y', 'hidden');
+                $('<div id="overlay"></div>')
+                        .css('top', $(document).scrollTop())
+                        .css('opacity', '0')
+                        .animate({'opacity': '0.5'}, 'slow')
+                        .appendTo('body');
+                $('<div id="lightbox"></div>')
+                        .hide()
+                        .appendTo('body');
+                $('<img>')
+                        .attr('src', $(this).attr('href'))
+                        .load(function () {
+                            positionLightboxImage();
+                        })
+                        .css('height', '600px')
+                        .css('width', '800px')
+                        .click(function () {
+                            removeLightbox();
+                        })
+                        .appendTo('#lightbox');
+                return false;
+            });
+
+
+            function positionLightboxImage() {
+                var top = ($(window).height() - $('#lightbox').height()) / 2;
+                var left = ($(window).width() - $('#lightbox').width()) / 2;
+                $('#lightbox')
+                        .css({
+                            'top': top + $(document).scrollTop(),
+                            'left': left
+                        })
+                        .fadeIn();
+            }
+
+
+            function removeLightbox() {
+                $('#overlay, #lightbox')
+                        .fadeOut('slow', function () {
+                            $(this).remove();
+                            $('body').css('overflow-y', 'auto'); // show scrollbars!
+                        });
+            }
+
+        });
+
+
+    </script>
+</head>
+<body>
+<h1>Creating a Custom LightBox in JQuery</h1>
+
+<div>
+
+    <p id="para1">The first image is displayed after this para </p>
+    <a href="../image_assets/image_asset1.jpg" class="lightbox"> Picture 1 </a>
+
+    <br>
+
+    <hr>
+
+
+    <p id="para2">The second image is displayed after this para </p>
+
+    <a href="../image_assets/image_asset2.jpg" class="lightbox"> Picture 2 </a>
+
+    <br>
+
+
+</div>
+
+
+</body>
+</html>

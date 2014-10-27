@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Adding the Style Sheet according to the body width </title>
+
+    <script src="../js_libs/jquery-2.1.1.js"></script>
+
+    <script>
+
+
+        $(document).ready(function () {
+
+            styleSheetToggle();
+            $(window).resize(styleSheetToggle);
+
+            function styleSheetToggle() {
+
+                if ($('body').width() > 900) {
+                    $('<link rel="stylesheet" href="../css_files/wide.css" type="text/css" />')
+                            .appendTo('head');
+                } else {
+                    $('link[href="../css_files/wide.css"]').remove();
+                }
+            }
+
+
+        });
+
+
+    </script>
+</head>
+<body>
+<h1>Using Resizing Event in Jquery </h1>
+
+<div id="container">
+
+    <div id="navigation">
+        This is the div acting as a placeholder for navigation.This is the div acting as a placeholder for
+        navigation.This is the div acting as a placeholder for navigation.This is the div acting as a placeholder for
+        navigation.This is the div acting as a placeholder for navigation.This is the div acting as a placeholder for
+        navigation.This is the div acting as a placeholder for navigation.This is the div acting as a placeholder for
+        navigation.This is the div acting as a placeholder for navigation.This is the div acting as a placeholder for
+        navigation.This is the div acting as a placeholder for navigation.This is the div acting as a placeholder for
+        navigation.This is the div acting as a placeholder for navigation.This is the div acting as a placeholder for
+        navigation.
+
+    </div>
+    <div id="content">
+        This is the div placeholder for the content items.This is the div placeholder for the content items.This is the
+        div placeholder for the content items.This is the div placeholder for the content items.This is the div
+        placeholder for the content items.This is the div placeholder for the content items.This is the div placeholder
+        for the content items.This is the div placeholder for the content items.This is the div placeholder for the
+        content items.This is the div placeholder for the content items.This is the div placeholder for the content
+        items.This is the div placeholder for the content items.This is the div placeholder for the content items.This
+        is the div placeholder for the content items.This is the div placeholder for the content items.This is the div
+        placeholder for the content items.This is the div placeholder for the content items.This is the div placeholder
+        for the content items.This is the div placeholder for the content items.This is the div placeholder for the
+        content items.This is the div placeholder for the content items.This is the div placeholder for the content
+        items.This is the div placeholder for the content items.This is the div placeholder for the content items.This
+        is the div placeholder for the content items.This is the div placeholder for the content items.This is the div
+        placeholder for the content items.This is the div placeholder for the content items.This is the div placeholder
+        for the content items.This is the div placeholder for the content items.This is the div placeholder for the
+        content items.This is the div placeholder for the content items.This is the div placeholder for the content
+        items.This is the div placeholder for the content items.This is the div placeholder for the content items.This
+        is the div placeholder for the content items.This is the div placeholder for the content items.This is the div
+        placeholder for the content items.This is the div placeholder for the content items.This is the div placeholder
+        for the content items.This is the div placeholder for the content items.This is the div placeholder for the
+        content items.This is the div placeholder for the content items.This is the div placeholder for the content
+        items.This is the div placeholder for the content items.This is the div placeholder for the content items.This
+        is the div placeholder for the content items.This is the div placeholder for the content items.This is the div
+        placeholder for the content items.This is the div placeholder for the content items.This is the div placeholder
+        for the content items.This is the div placeholder for the content items.This is the div placeholder for the
+        content items.This is the div placeholder for the content items.This is the div placeholder for the content
+        items.This is the div placeholder for the content items.This is the div placeholder for the content items.This
+        is the div placeholder for the content items.This is the div placeholder for the content items.This is the div
+        placeholder for the content items.This is the div placeholder for the content items.This is the div placeholder
+        for the content items.This is the div placeholder for the content items.This is the div placeholder for the
+        content items.This is the div placeholder for the content items.This is the div placeholder for the content
+        items.This is the div placeholder for the content items.This is the div placeholder for the content items.This
+        is the div placeholder for the content items.This is the div placeholder for the content items.This is the div
+        placeholder for the content items.This is the div placeholder for the content items.
+
+    </div>
+
+    <p>This is a simple paragraph which will have its css attributes changed when the width will change.This is a simple
+        paragraph which will have its css attributes changed when the width will change.This is a simple paragraph which
+        will have its css attributes changed when the width will change.This is a simple paragraph which will have its
+        css attributes changed when the width will change.This is a simple paragraph which will have its css attributes
+        changed when the width will change.This is a simple paragraph which will have its css attributes changed when
+        the width will change.This is a simple paragraph which will have its css attributes changed when the width will
+        change.This is a simple paragraph which will have its css attributes changed when the width will change.This is
+        a simple paragraph which will have its css attributes changed when the width will change.This is a simple
+        paragraph which will have its css attributes changed when the width will change.This is a simple paragraph which
+        will have its css attributes changed when the width will change.This is a simple paragraph which will have its
+        css attributes changed when the width will change.This is a simple paragraph which will have its css attributes
+        changed when the width will change.This is a simple paragraph which will have its css attributes changed when
+        the width will change.This is a simple paragraph which will have its css attributes changed when the width will
+        change.This is a simple paragraph which will have its css attributes changed when the width will change.This is
+        a simple paragraph which will have its css attributes changed when the width will change.This is a simple
+        paragraph which will have its css attributes changed when the width will change.This is a simple paragraph which
+        will have its css attributes changed when the width will change.This is a simple paragraph which will have its
+        css attributes changed when the width will change.This is a simple paragraph which will have its css attributes
+        changed when the width will change.This is a simple paragraph which will have its css attributes changed when
+        the width will change.This is a simple paragraph which will have its css attributes changed when the width will
+        change.This is a simple paragraph which will have its css attributes changed when the width will change.This is
+        a simple paragraph which will have its css attributes changed when the width will change.This is a simple
+        paragraph which will have its css attributes changed when the width will change.This is a simple paragraph which
+        will have its css attributes changed when the width will change.This is a simple paragraph which will have its
+        css attributes changed when the width will change.This is a simple paragraph which will have its css attributes
+        changed when the width will change.This is a simple paragraph which will have its css attributes changed when
+        the width will change.This is a simple paragraph which will have its css attributes changed when the width will
+        change.This is a simple paragraph which will have its css attributes changed when the width will change.This is
+        a simple paragraph which will have its css attributes changed when the width will change.This is a simple
+        paragraph which will have its css attributes changed when the width will change.This is a simple paragraph which
+        will have its css attributes changed when the width will change.This is a simple paragraph which will have its
+        css attributes changed when the width will change.This is a simple paragraph which will have its css attributes
+        changed when the width will change.This is a simple paragraph which will have its css attributes changed when
+        the width will change.This is a simple paragraph which will have its css attributes changed when the width will
+        change.This is a simple paragraph which will have its css attributes changed when the width will change.This is
+        a simple paragraph which will have its css attributes changed when the width will change.This is a simple
+        paragraph which will have its css attributes changed when the width will change.This is a simple paragraph which
+        will have its css attributes changed when the width will change.This is a simple paragraph which will have its
+        css attributes changed when the width will change.This is a simple paragraph which will have its css attributes
+        changed when the width will change.This is a simple paragraph which will have its css attributes changed when
+        the width will change.This is a simple paragraph which will have its css attributes changed when the width will
+        change.This is a simple paragraph which will have its css attributes changed when the width will change.This is
+        a simple paragraph which will have its css attributes changed when the width will change.This is a simple
+        paragraph which will have its css attributes changed when the width will change.This is a simple paragraph which
+        will have its css attributes changed when the width will change.This is a simple paragraph which will have its
+        css attributes changed when the width will change.This is a simple paragraph which will have its css attributes
+        changed when the width will change.This is a simple paragraph which will have its css attributes changed when
+        the width will change.This is a simple paragraph which will have its css attributes changed when the width will
+        change.</p>
+</div>
+
+</body>
+</html>
