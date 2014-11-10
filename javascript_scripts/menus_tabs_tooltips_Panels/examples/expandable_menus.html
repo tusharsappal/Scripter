@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Creating an Expandable Menu in Jquery</title>
+    <link rel="stylesheet" href="../css/menu.css" type="text/css">
+
+    <script src="../js_libs/jquery-2.1.1.js"></script>
+
+    <script>
+        $(document).ready(function () {
+
+            $('li.parent_link').click(function () {
+                $(this).children('ul.first_child').toggle();
+                //return false;
+
+            });
+
+            $()
+        });
+
+    </script>
+</head>
+<body>
+<h1>Creating an expandable menu in Jquery</h1>
+
+<nav role="navigation">
+    <ul id="menu">
+        <li class="parent_link"><a href="#">What's new?</a>
+            <ul class="first_child">
+                <li><a href="#">Weekly specials</a></li>
+                <li><a href="#">Last night's pics!</a></li>
+                <li><a href="#">Users' comments</a></li>
+            </ul>
+        </li>
+        <li class="parent_link"><a href="#">Member extras</a>
+            <ul class="first_child">
+                <li><a href="#">Premium Celebrities</a></li>
+                <li><a href="#">24-hour Surveillance</a></li>
+            </ul>
+        </li>
+
+        <li class="parent_link"><a href="#">About Us</a>
+            <ul class="first_child">
+                <li><a href="#">About Our Company</a></li>
+                <li><a href="#">About Our Objective </a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+
+</body>
+</html>

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70ecec19-9353-434e-9e76-6e0682bae0d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript_scripts/images_slideshows/css_files/lightbox_style.css" afterPath="$PROJECT_DIR$/javascript_scripts/images_slideshows/css_files/lightbox_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/examples/expandable_menus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/js_libs/jquery-2.1.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/css/menu.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/designing_the_light_box_using_colorbox_plugin.html" afterPath="$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/designing_the_light_box_using_colorbox_plugin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Scripter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,31 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="custom_lightbox.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/custom_lightbox.html">
+      <file leaf-file-name="expandable_menus.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/examples/expandable_menus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.538462" vertical-offset="840" max-vertical-offset="1564">
-              <caret line="64" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.23480663" vertical-offset="51" max-vertical-offset="1003">
+              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="designing_the_light_box_using_colorbox_plugin.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/designing_the_light_box_using_colorbox_plugin.html">
+      <file leaf-file-name="menu.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/css/menu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="850">
-              <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lightbox_style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript_scripts/images_slideshows/css_files/lightbox_style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29466668" vertical-offset="0" max-vertical-offset="750">
-              <caret line="13" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,8 +111,10 @@
         <option value="$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/css_files/splitter.css" />
         <option value="$PROJECT_DIR$/javascript_scripts/animating_scrolling_resizing_examples/examples/pane_splitter.html" />
         <option value="$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/custom_lightbox.html" />
-        <option value="$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/designing_the_light_box_using_colorbox_plugin.html" />
         <option value="$PROJECT_DIR$/javascript_scripts/images_slideshows/css_files/lightbox_style.css" />
+        <option value="$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/designing_the_light_box_using_colorbox_plugin.html" />
+        <option value="$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/css/menu.css" />
+        <option value="$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/examples/expandable_menus.html" />
       </list>
     </option>
   </component>
@@ -201,11 +197,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images_slideshows" />
+              <option name="myItemId" value="menus_tabs_tooltips_Panels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js_libs" />
+              <option name="myItemId" value="javascript_scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menus_tabs_tooltips_Panels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript_scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menus_tabs_tooltips_Panels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -274,11 +310,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\menus_tabs_tooltips_Panels" />
       <recent name="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\images_slideshows\js_libs" />
       <recent name="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\images_slideshows\image_assets" />
       <recent name="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\images_slideshows" />
       <recent name="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\animating_scrolling_resizing_examples" />
-      <recent name="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sappal\Documents\GitHub\Scripter\javascript_scripts\selecting_decorating_enhancing_examples" />
@@ -362,14 +398,6 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -380,14 +408,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
       <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -395,6 +421,16 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -455,11 +491,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846716" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39968154" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -484,30 +520,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_scripts/fetch_email_address.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_scripts/python_cook_book_receipes/utility_scripts_administration/launch_web_browser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_scripts/python_cook_book_receipes/utility_scripts_administration/getting_terminal_size.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -691,13 +703,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript_scripts/selecting_decorating_enhancing_examples/examples/fading_in_effect.html">
@@ -819,14 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/custom_lightbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.538462" vertical-offset="840" max-vertical-offset="1564">
-          <caret line="64" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript_scripts/images_slideshows/js_libs/jquery.colorbox-min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
@@ -835,18 +839,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/images_slideshows/css_files/lightbox_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29466668" vertical-offset="0" max-vertical-offset="750">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/designing_the_light_box_using_colorbox_plugin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="850">
-          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        <state vertical-scroll-proportion="-4.9615383" vertical-offset="126" max-vertical-offset="918">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript_scripts/images_slideshows/css_files/lightbox_style.css">
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/js_libs/jquery-2.1.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29466668" vertical-offset="0" max-vertical-offset="750">
-          <caret line="13" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.55359566" vertical-offset="255" max-vertical-offset="156128">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/images_slideshows/examples/custom_lightbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="1564">
+          <caret line="7" column="82" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_scripts/menus_tabs_tooltips_Panels/examples/expandable_menus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23480663" vertical-offset="51" max-vertical-offset="1003">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
           <folding />
         </state>
       </provider>
